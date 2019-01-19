@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "format": "prettier --write 'index.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "runningdeveloper.com",
@@ -12,5 +13,8 @@
   "dependencies": {
     "node-dir": "^0.1.17",
     "sharp": "^0.21.3"
+  },
+  "devDependencies": {
+    "prettier": "1.15.3"
   }
 }
