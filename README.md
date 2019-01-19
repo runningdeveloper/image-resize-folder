@@ -3,8 +3,8 @@
 
 # Install
 ```
-$ git clone ...
-$ cd ..
+$ git clone https://github.com/runningdeveloper/image-resize-folder.git
+$ cd image-resize-folder
 $ npm i
 ```
 
